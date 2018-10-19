@@ -6,5 +6,6 @@ package com.baizhi.entity;
 public class TestController {
     public static void main(String[] args) {
         System.out.println("哈哈哈");
+        System.out.println("唧唧复唧唧");
     }
 }
